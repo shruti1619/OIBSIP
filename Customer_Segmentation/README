@@ -1,1 +1,26 @@
+# Customer Segmentation Analysis
 
+## Objective
+This project performs customer segmentation using the Customer Personality Analysis dataset from Kaggle. The goal is to cluster customers based on income, recency, and total spending to uncover meaningful business segments.
+
+## Dataset
+Customer Personality Analysis  
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
+## Tools Used
+Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+
+## Steps
+1. Data exploration and cleaning
+2. Feature creation (TotalAmount)
+3. Feature scaling
+4. Elbow Method to select optimal clusters
+5. K-Means clustering
+6. Visualization and cluster interpretation
+
+## Insights
+- Identified high-value, medium, and budget customers
+- Targeted marketing and retention strategy recommendations included
+
+## Conclusion
+Customer segmentation helps businesses tailor strategies for different customer groups, improving engagement and ROI.
